@@ -112,13 +112,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009113_0000_1030FDE7D2608B48"/>
-            <pb facs="tcp:009113_0001_1030FDEE45786018" rendition="simple:additions"/>
+            <pb facs="unknown:009113_0000_1030FDE7D2608B48"/>
+            <pb facs="unknown:009113_0001_1030FDEE45786018"
+                rendition="simple:additions"/>
             <p>ODE, ON THE LATE GLORIOUS SUCCESSES OF HIS MAJESTY'S ARMS, AND PRESENT GREATNESS OF THE ENGLISH NATION.</p>
             <p>PHILADELPHIA: Printed and Sold by WILLIAM DUNLAP, M, DCC, LXII.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:009113_0002_1030FDEFD091BAD0"/>
+            <pb facs="unknown:009113_0002_1030FDEFD091BAD0"/>
             <head>PREFACE.</head>
             <p>THE intent of the following ODE was to furniſh the Public with a ſhort Entertainment—The Au<g ref="char:EOLhyphen"/>thor thinks he need ſay little more, than that he reſpectfully ſubmits it to their Candour.</p>
             <p>IF it ſhould be ſo fortunate as to pleaſe, and anſwer the Deſign, it will increaſe the Pleaſure of the Writer; if otherwiſe, the leſs that is ſaid in its behalf, will certainly be moſt agreeable to the Reader.</p>
@@ -126,7 +127,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:009113_0003_1030FDF342E8EB38"/>
+            <pb facs="unknown:009113_0003_1030FDF342E8EB38"/>
             <head>HEROIC STANZAS, On the late glorious Succeſſes, <hi>&amp;c.</hi>
             </head>
             <lg n="1">
@@ -151,7 +152,7 @@
                <l>Nor dare the Flocks their dreadful Rage withſtand.</l>
             </lg>
             <lg n="4">
-               <pb n="6" facs="tcp:009113_0004_1030FDF4D0278B38"/>
+               <pb n="6" facs="unknown:009113_0004_1030FDF4D0278B38"/>
                <head>IV.</head>
                <l>Or as the Sovereigns of the briny Flood</l>
                <l>Imperial ſway their azure liquid Plain,</l>
@@ -187,7 +188,7 @@
                <l>Or <hi>Peru</hi>'s Mines produce the glitt'ring Ore;</l>
             </lg>
             <lg n="9">
-               <pb n="7" facs="tcp:009113_0005_1030FDFB4C1903F0"/>
+               <pb n="7" facs="unknown:009113_0005_1030FDFB4C1903F0"/>
                <head>IX.</head>
                <l>True to her Port, her num'rous Veſſels bear</l>
                <l>Their coſtly Freights, from each prolific Soil,</l>
@@ -224,7 +225,7 @@
                   <hi>Heſperian,</hi> bright with bloomy Gold!</l>
             </lg>
             <lg n="14">
-               <pb n="8" facs="tcp:009113_0006_1030FDFCD7D6C0B0"/>
+               <pb n="8" facs="unknown:009113_0006_1030FDFCD7D6C0B0"/>
                <head>XIV.</head>
                <l>Still may <hi>Britannia</hi>'s martial Sons proceed,</l>
                <l>Till <hi>Chili</hi> tremble at her Thunder's roar!</l>
@@ -265,7 +266,7 @@
                <l>Where ardent Warriors burn for glory's Prize!</l>
             </lg>
             <lg n="19">
-               <pb n="9" facs="tcp:009113_0007_1030FDFE69897028"/>
+               <pb n="9" facs="unknown:009113_0007_1030FDFE69897028"/>
                <head>XIX.</head>
                <l>See the brave Youths, as breathes the Trump of War,</l>
                <l>Tremendous ruſhing on the armed Foe!</l>
@@ -301,7 +302,7 @@
                <l>And round <hi>his</hi> Brows triumphant Garlandsſhed.</l>
             </lg>
             <lg n="24">
-               <pb n="10" facs="tcp:009113_0008_1030FE019B71E4E8"/>
+               <pb n="10" facs="unknown:009113_0008_1030FE019B71E4E8"/>
                <head>XXIV.</head>
                <l>Nor here the current of her Glory ends:</l>
                <l>Stout <hi>Moro</hi>'s doom'd to feel her martial Rage;</l>
@@ -338,7 +339,7 @@
                <l>Whether in <hi>Britain</hi>'s or <hi>Iberia</hi>'s Train.</l>
             </lg>
             <lg n="29">
-               <pb n="11" facs="tcp:009113_0009_1030FE080F74B210"/>
+               <pb n="11" facs="unknown:009113_0009_1030FE080F74B210"/>
                <head>XXIX.</head>
                <l>So fought <hi>Rome</hi>'s Hero, <hi>Africanus</hi> bold,</l>
                <l>And ſo the dauntleſs <hi>Hannibal</hi> withſtood,</l>
@@ -376,7 +377,7 @@
                <l>From whence to us he ſends his mild Command!</l>
             </lg>
             <lg n="34">
-               <pb n="12" facs="tcp:009113_0010_1030FE0999AC20D8"/>
+               <pb n="12" facs="unknown:009113_0010_1030FE0999AC20D8"/>
                <head>XXXIV.</head>
                <l>Far o'er this Tract of rich productive Soil</l>
                <l>(No more the Region of a barb'rous Race)</l>
@@ -412,7 +413,7 @@
                <l>And ſhew that Virtue is true Happineſs!</l>
             </lg>
             <lg n="39">
-               <pb n="13" facs="tcp:009113_0011_1030FE0B2506C668"/>
+               <pb n="13" facs="unknown:009113_0011_1030FE0B2506C668"/>
                <head>XXXIX</head>
                <l>Such are the Maxims of <hi>parnaſſian</hi> Kind,</l>
                <l>With pureſt Counſels to amend the Heart,</l>
@@ -450,7 +451,7 @@
                <l>And rankling Weeds the genial Soul infeſt.</l>
             </lg>
             <lg n="44">
-               <pb n="14" facs="tcp:009113_0012_1030FE0E8A0137E0"/>
+               <pb n="14" facs="unknown:009113_0012_1030FE0E8A0137E0"/>
                <head>XLIV.</head>
                <l>But in the Sallies of a youthful Song</l>
                <l>Spend not the Counſels of experienc'd Age,</l>
